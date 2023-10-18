@@ -1,0 +1,2 @@
+python ParkinsonPrediction.py
+pause
