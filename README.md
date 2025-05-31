@@ -17,15 +17,36 @@ User-Friendly Interface: We've created an intuitive and user-friendly graphical 
 
 Educational Value: As a college project, our code is open source, making it an educational resource for students and enthusiasts interested in the intersection of healthcare and artificial intelligence. We encourage others to learn from and contribute to our work.
 
-# Team Members:
+# 🧠 CNN Model for Parkinson's Disease Detection
 
-@Shivani: Project Lead and Data Scientist Responsible for data collection, preprocessing, and model development.
+A deep learning project to detect Parkinson's disease from medical imaging using Convolutional Neural Networks (CNN).
 
-@Saiteja: Machine Learning Engineer Developed and trained the CNN model.
+## 📌 Description
+This project uses a Convolutional Neural Network (CNN) to classify medical images for detecting Parkinson's Disease. It achieved **92% accuracy** through careful model tuning, data preprocessing, and evaluation.
 
-@Mohan Chand: Frontend Developer Designed and implemented the user-friendly GUI.
+## 🔧 Tech Stack
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas
+- Matplotlib, Seaborn
 
-@Kamesh: Documentation and Deployment Specialist Managed project documentation and assisted in deploying the application.
+## 📂 Features
+- CNN model architecture
+- Image data preprocessing
+- Accuracy & loss plots
+- Confusion matrix and performance metrics
+
+## 📈 Results
+- Accuracy: 92%
+- Metrics: Precision, Recall, F1 Score
+- Visualization: Training vs Validation Accuracy
+
+## 🚀 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/imsaiteja/CNN_Model_for_Parkinson_Disease_Detection.git
+   cd CNN_Model_for_Parkinson_Disease_Detection
+
 
 # Getting Started:
 
